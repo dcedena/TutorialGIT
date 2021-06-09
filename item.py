@@ -5,3 +5,6 @@ class item():
 
     def method_print(self, text):
         print(text)
+    
+    def new_method_from_github(self):
+        pass
