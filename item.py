@@ -8,6 +8,3 @@ class item():
     
     def new_method_from_github(self):
         pass
-
-    def new_method_from_vscode(self):
-        pass
